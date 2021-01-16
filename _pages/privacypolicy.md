@@ -10,23 +10,17 @@ January 16 2021
 
 # Privacy Policy
 Friendtain respects your privacy and that of your contacts.
-Friendtain has servers and does not collect any data - everything stays on your iPhone.
+Friendtain does not collect any data - everything stays on your iPhone.
 
 <br>
 
 ## Collection of Personal Information
-All information you enter in Friendtain is stored locally on your iPhone.
-Friendtain does not collect, store, or share any of your provided data.
-
-<br>
-
-## Access to iOS contacts
-To get the most of Friendtain, I recommend granting access to contacts. This allows Friendtain to stay in sync and allow quick access to linked contacts. As with all other information entered in Friendtain, this data never leaves your phone.
+All information you provide to Friendtain is stored locally on your iPhone. This applies to data entered directly or information you (might) sync from your contacts. Friendtain does not collect, store, or share any of the provided data.
 
 <br>
 
 ## Email
-If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose without your consent.
+If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose.
 
 <br>
 
