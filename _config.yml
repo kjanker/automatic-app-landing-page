@@ -36,11 +36,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Personal Profiles
-    description                           : Create profiles of your friends or import them from contacts. Make notes, remember details and get attentive.
+    description                           : Create profiles of your friends or import them from contacts. Make notes, remember details and become attentive.
     fontawesome_icon_name                 : star
 
   - title                                 : Life Events
-    description                           : Track important moments in your friend's life in their timeline. Get notified about upcoming events.
+    description                           : Track important moments in your friend's life in their timeline. Get notifications about upcoming events.
     fontawesome_icon_name                 : calendar-check
 
   - title                                 : Family & Friends
