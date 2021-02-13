@@ -10,6 +10,18 @@ Here you can find the latest updates and changes to Friendtain.
 <br>
 
 ### `Latest: Open Beta`
+## Version 0.5.1
+Some bug fixing and little UX enhancements.
+
+### What's new?
+- Height of the image title in event and relation views is now reduced if no image is used.
+- Headers in the profile view are no longer restricted to uppercase. You might need to rename your custom lists though.
+
+### Bug fixes
+- Fixed an issue with the arrangements and buttons of the custom lists.
+
+________
+
 ## Version 0.5.0
 First big overhault after the start of the open beta. Mainly cosmetic changes - but with impact on the user experience!
 
